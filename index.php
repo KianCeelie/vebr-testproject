@@ -7,4 +7,6 @@
     echo"tweede tijdrijs";
     
     echo"ik ga een nieuwe commit pushen naar GitHub";
+
+    echo"hoi"
 ?>
