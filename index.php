@@ -9,4 +9,6 @@
     echo"ik ga een nieuwe commit pushen naar GitHub";
 
     echo"hoi"
+
+    echo"dit is een nieuwe branch malle makker"
 ?>
