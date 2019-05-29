@@ -14,5 +14,7 @@
 
     echo"nieuw stukje code";
 
-    echo"user-2 was here. met veel mooite"
+    echo"user-2 was here. met veel mooite";
+
+    echo"your code is max";
 ?>
