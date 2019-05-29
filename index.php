@@ -17,4 +17,6 @@
     echo"user-2 was here. met veel mooite";
 
     echo"your code is max";
+
+    echo"pull test";
 ?>
